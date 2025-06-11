@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Ritmo',
     'O que e ritmo?',
-    'E o elemento que se baseia na divisao ordenada do tempo'
+    'E o elemento que se baseia na divisao ordenada do tempo '
 )
