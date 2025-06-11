@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Musica',
+    'O que e a musica?',
+    'A arte dos sons'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Sons',
+    'oque e o som ?',
+    'tudo oque ouvimos'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Sons',
+    'tipos de som?',
+    'som natural e som produzido'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Ritmo',
+    'O que e ritmo?',
+    'E o elemento que se baseia na divisao ordenada do tempo'
 )
